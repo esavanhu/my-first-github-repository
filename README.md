@@ -1,6 +1,6 @@
 # my-first-github-repository
-Here is my first github repository. Lets get started.
+This line was replaced in feature-2 branch
 
-This line was modified manually during conflict.
+This file was modified locally
 
-New line was added locally
+This line was added in feature-2 branch
